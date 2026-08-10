@@ -1,11 +1,11 @@
 class script(object):
-    START_TXT = """𝗛𝗲𝘆 {} ,𝗜 𝗔𝗺 <a href=https://t.me/Mazhavil_Waseem_bot/> 𝗪𝗮𝘀𝗲𝗲𝗺 </a></b> ,𝗛𝗮𝗽𝗽𝘆 🖤 𝗧𝗼 𝗛𝗮𝘃𝗲 𝗬𝗼𝘂 
+    START_TXT = """𝗛𝗲𝘆 {} ,𝗜 𝗔𝗺 <a href=https://t.me/laser_of_telegram/> AnGle</a></b> ,𝗛𝗮𝗽𝗽𝘆 🖤 𝗧𝗼 𝗛𝗮𝘃𝗲 𝗬𝗼𝘂 
 
 𝗜𝗮𝗺 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹𝗹 𝗔𝘂𝘁𝗼 𝗙𝗶𝗹𝘁𝗲𝗿 + 𝗠𝗼𝘃𝗶𝗲 𝗦𝗲𝗮𝗿𝗰𝗵 + 𝗠𝗮𝗻𝘂𝗮𝗹 𝗙𝗶𝗹𝘁𝗲𝗿 𝗕𝗼𝘁 ⚙
 
-𝗛𝗲𝗿𝗲 𝗬𝗼𝘂 𝗖𝗮𝗻 𝗥𝗲𝗾𝘂𝗲𝘀𝘁 𝗠𝗼𝘃𝗶𝗲'𝘀, 𝗝𝘂𝘀𝘁 𝗦𝗲𝗻𝘁 <a href=https://t.me/Mazhavil_Waseem_bot/> 𝗠𝗼𝘃𝗶𝗲 𝗡𝗮𝗺𝗲 </a></b> 𝗪𝗶𝘁𝗵 𝗣𝗿𝗼𝗽𝗲𝗿 <a href=https://www.google.com/> 𝗚𝗼𝗼𝗴𝗹𝗲 </a></b> 𝗦𝗽𝗲𝗹𝗹𝗶𝗻𝗴..!!
+𝗛𝗲𝗿𝗲 𝗬𝗼𝘂 𝗖𝗮𝗻 𝗥𝗲𝗾𝘂𝗲𝘀𝘁 𝗠𝗼𝘃𝗶𝗲'𝘀, 𝗝𝘂𝘀𝘁 𝗦𝗲𝗻𝘁 <a href=https://t.me/laser_of_telegram/> 𝗠𝗼𝘃𝗶𝗲 𝗡𝗮𝗺𝗲 </a></b> 𝗪𝗶𝘁𝗵 𝗣𝗿𝗼𝗽𝗲𝗿 <a href=https://www.google.com/> 𝗚𝗼𝗼𝗴𝗹𝗲 </a></b> 𝗦𝗽𝗲𝗹𝗹𝗶𝗻𝗴..!!
 
-𝗖ᴏɴᴛᴀᴄᴛ 𝗕ᴏᴛ 𝗗ᴇᴠᴇʟᴏᴘᴇʀ (𝗢ʀ) 𝗥ᴇᴘᴏʀᴛ 𝗕ᴜɢꜱ..!! 👉 @MAZHAVILADMINBOT</b>"""
+𝗖ᴏɴᴛᴀᴄᴛ 𝗕ᴏᴛ 𝗗ᴇᴠᴇʟᴏᴘᴇʀ (𝗢ʀ) 𝗥ᴇᴘᴏʀᴛ 𝗕ᴜɢꜱ..!! 👉 @LASER_OF_TELEGRAM</b>"""
     HELP_TXT = """
 ❗️How to Search Movies Here❓ 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -26,9 +26,9 @@ Baahubali 2015 Tamil
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❗️On Android, Better Use <a href=https://play.google.com/store/apps/details?id=org.videolan.vlc> VLC Media Player </a> For Watch Movie's.
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Cᴏɴᴛᴀᴄᴛ Bᴏᴛ Dᴇᴠᴇʟᴏᴘᴇʀ (Oʀ) Rᴇᴘᴏʀᴛ Bᴜɢꜱ..!! 👉 @MazhavilAdminBot"""
+Cᴏɴᴛᴀᴄᴛ Bᴏᴛ Dᴇᴠᴇʟᴏᴘᴇʀ (Oʀ) Rᴇᴘᴏʀᴛ Bᴜɢꜱ..!! 👉 @LASER_Of_Telegram"""
     ABOUT_TXT = """<b>
-◎ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/George_sirr> George</a>
+◎ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/laser_of_telegram> FAXXX</a>
 ◎ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
 ◎ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ DB
 ◎ Bᴏᴛ Sᴇʀᴠᴇʀ: sun direct</b>"""
@@ -138,14 +138,7 @@ Added By - {}
 FɪʟᴇSɪᴢᴇ : {file_size}
 
 ╔═  ᴊᴏɪɴ ᴡɪᴛʜ ᴜs   ═╗
- Jᴏɪɴ :- [MAIN CHANNEL](https://t.me/MazhavilMoviesLinks)
- Jᴏɪɴ :- [Movie Group 1](https://t.me/mazhavilMovies_Groups)
- Jᴏɪɴ :- [Movie Group 2](https://t.me/mazhavil_Movies)
- Jᴏɪɴ :- [Movie ᴄʜᴀɴɴᴇʟ ](https://t.me/OttUpdates2TG)
- Jᴏɪɴ :- [Movie ᴄʜᴀɴɴᴇʟ ](https://t.me/MazhavilMoviesOTT)
- Jᴏɪɴ :- [Movie ᴄʜᴀɴɴᴇʟ ](https://t.me/MazhavilMovies_Main)
- Jᴏɪɴ :- [Movie ᴄʜᴀɴɴᴇʟ ](https://t.me/mazhavilMovies_Updates)
- Jᴏɪɴ :- [Movie Group 7](https://t.me/mazhavil_support)
+ Jᴏɪɴ :- [MAIN CHANNEL](https://t.me/CINEMA_COMPANY1)
 ╚═  ᴊᴏɪɴ ᴡɪᴛʜ ᴜs    ═╝
 
 ⚠️ <b>This file will be deleted from here within 1 minute as it has copyright ... !!!</b>
