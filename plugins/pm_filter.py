@@ -441,11 +441,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('🖥Oᴛᴛ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ🖥', url=f'https://t.me/+nNYtDOOW1kwxYjg1')
+            InlineKeyboardButton('🖥Oᴛᴛ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ🖥', url=f'https://t.me/Cinema_company_group')
             ],[
-            InlineKeyboardButton('⚓️Oᴛᴛ ᴍᴏᴠɪᴇ sᴛʀᴇᴀᴍɪɴɢ⚓️', url='https://t.me/+NE3VMORHtoU3OWU1')
+            InlineKeyboardButton('⚓️Oᴛᴛ ᴍᴏᴠɪᴇ sᴛʀᴇᴀᴍɪɴɢ⚓️', url='https://t.me/Cinema_company_group')
          ],[
-            InlineKeyboardButton('⚙Lᴀᴛᴇsᴛ Mᴏᴠɪᴇ Rᴇʟᴇᴀsᴇs⚙', url='https://t.me/+5xjplvJC1IIyZTdl')
+            InlineKeyboardButton('⚙Lᴀᴛᴇsᴛ Mᴏᴠɪᴇ Rᴇʟᴇᴀsᴇs⚙', url='https://t.me/Cinema_company_group')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
